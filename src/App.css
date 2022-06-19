@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', 'sans-serif';
+}
+
+::-webkit-scrollbar {
+    width: 7px;
+}
+  
+::-webkit-scrollbar-track {
+    background: rgb(53, 53, 53); 
+}
+   
+::-webkit-scrollbar-thumb {
+    background: #fff; 
+    border-radius: 50px;
+
+}
+  
+::-webkit-scrollbar-thumb:hover {
+    background: #49DFEB;
+    
+}
+
+::selection {
+    color: #49DFEB;
+    background: transparent;
+}
