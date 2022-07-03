@@ -2,7 +2,8 @@
 # Academic Aviation Website ✈️
 Purposefully made for a university department's website.
 ## Brief Description
-An Aircraft Website that describes its functionality in flight situations wherein the maneuverability is discussed thoroughly; given are the simulations of such equipment in action.
+An Aircraft Website that describes its functionality in flight situations wherein the maneuverability is discussed thoroughly
+> Given are the simulations of such equipment in action.
 
 ## Details
 For your packages to be installed `npm i` or `npm install` either way they'll work.
