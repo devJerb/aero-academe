@@ -13,3 +13,5 @@ Connected [Firebase](https://firebase.google.com/) as its mean for security thou
 Run the project using `npm start` and see the provided `localhost:3000/aeronautics`.
 
 Voilà! the project is as good to go! 👏
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d68af5e1-3231-4f8f-953f-dc4ba7b09848/deploy-status)](https://app.netlify.com/sites/aeronautics/deploys)
