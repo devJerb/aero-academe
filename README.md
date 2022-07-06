@@ -1,5 +1,4 @@
 ![image](https://user-images.githubusercontent.com/102452883/175236588-481c2117-cba0-4ffe-9dfe-aa22f2fee264.png)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d68af5e1-3231-4f8f-953f-dc4ba7b09848/deploy-status)](https://app.netlify.com/sites/aeronautics/deploys)
 # Academic Aviation Website ✈️
 Purposefully made for a university department's website.
 ## Brief Description
