@@ -9,7 +9,6 @@ import ForgotPassword from './pages/forgotpassword'
 import UpdateProfile from './pages/updateprofile'
 import Dashboard from './pages/dashboard'
 // import PrivateRoute from './pages/privateroute'
-import Creators from './pages/creators'
 
 
 function App() {
@@ -20,7 +19,6 @@ function App() {
           <Route path="/aeronautics" component={Home} exact/>
           <Route path="/aeronautics" component={Home} exact/>
           <Route path="/model" component={Model} exact />
-          <Route path="/creators" component={Creators} exact/>
           {/* <Route path="/login" component={Login} exact/> */}
           <Route path="/signup" component={Signup} exact/>
           <Route path="/forgot-password" component={ForgotPassword} exact/>
