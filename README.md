@@ -1,4 +1,4 @@
-# Academic Aviation Website ✈️
+# Academic Aviation Website
 ![image](https://user-images.githubusercontent.com/102452883/175236588-481c2117-cba0-4ffe-9dfe-aa22f2fee264.png)
 ![image](https://user-images.githubusercontent.com/102452883/178029178-1a1707bd-31c1-4688-9e98-a521efd20698.png)
 Purposefully made for a university department's website.
